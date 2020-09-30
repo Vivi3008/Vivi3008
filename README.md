@@ -1,13 +1,10 @@
-### 	:woman_technologist: Viviane Ramos Luz 👋
+###  Viviane Ramos Luz 👋
 
->
+:woman_student: Analista de sistemas e eterna estudante das melhores tecnologias para desenvolvimento web .
 
-> :woman_student: Estudante das melhores tecnologias para desenvolvimento web .
+:technologist: ReactJs | NodeJs | HTML | CSS | Javascript
 
->:technologist: | Javascript | React & React Native | Node.js | HTML | CSS3.
+ Gosto de resolver desafios e problemas que envolvam o mundo da web e tento colaborar para tornar a web mais inclusiva.
 
-> Gosto de resolver desafios e problemas que envolvam o mundo da web e tento colaborar para tornar a web mais inclusiva.
-
-> Hobbys :video_game: :weight_lifting_woman: :biking_woman: :family_man_woman_girl_boy:
-
+[![Viviane stats](https://github-readme-stats.vercel.app/api?username=vivi3008)](https://github.com/anuraghazra/github-readme-stats)
 
