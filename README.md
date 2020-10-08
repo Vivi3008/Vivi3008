@@ -6,5 +6,5 @@
 
  Gosto de resolver desafios e problemas que envolvam o mundo da web e tento colaborar para tornar a web mais inclusiva.
 
-[![Viviane stats](https://github-readme-stats.vercel.app/api?username=vivi3008)](https://github.com/anuraghazra/github-readme-stats)
+[![Viviane stats](https://github-readme-stats.vercel.app/api?username=vivi3008&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
