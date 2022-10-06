@@ -1,8 +1,6 @@
-###  Viviane Ramos Luz 🤟
+###  Viviane Ramos Luz
 
-:woman_student: Desenvolvedora
-
-:technologist: ReactJs | React Native | NodeJs | HTML | CSS | Javascript
+Hi! My name is Viviane and I like to code. 
 
 [![Viviane stats](https://github-readme-stats.vercel.app/api?username=vivi3008&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
